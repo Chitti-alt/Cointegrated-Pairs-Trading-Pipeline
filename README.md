@@ -1,4 +1,4 @@
-# Cointegrated-Pairs-Trading-Pipeline
+
 # Cointegrated Pairs Trading Pipeline
 
 A fully vectorized quantitative backtesting pipeline that identifies mathematically cointegrated equity pairs and simulates a mean-reversion trading strategy using rolling Z-scores.
